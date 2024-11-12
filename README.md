@@ -10,13 +10,25 @@
   <img alt="License" src="https://img.shields.io/github/license/JulianePires/portfolio-juliane-pires?color=56BEB8">
 </div>
 
+## Apêndice
+
+- [Portfólio Profissional](#portfólio-profissional)
+- [Roadmap](#roadmap)
+- [Documentação](#documentação)
+- [Funcionalidades](#funcionalidades)
+- [Instalação](#instalação)
+- [Aprendizados](#aprendizados)
+- [Licença](#licença)
+- [Melhorias](#melhorias)
+- [Stack utilizada](#stack-utilizada)
+- [Rodando os testes](#rodando-os-testes)
+- [🔗 Links](#-links)
+- [Autores](#autores)
+- [Feedback](#feedback)
+
 ## Portfólio Profissional
 
 Este é o meu projeto de portfólio. É aqui que virão todas as parafernalhas que eu já criei, os projetos que virão e as coisas que eu escrevo. Ah, de plus terá uma página com alguma coisinha nova e divertida que eu pensar em criar. Também penso em colocar uma seção pra meus feitos e criações artísticos.
-
-## Apêndice
-
-Coloque qualquer informação adicional aqui
 
 ## Roadmap
 
